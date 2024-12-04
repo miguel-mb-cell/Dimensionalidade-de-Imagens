@@ -1,4 +1,4 @@
-# Dimensionalidade de Imagens 
+# Dimensionalidade de Imagens 📐
 Bem vindo ao meu estudo sobre dimensionalidade de imagens! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 Nesse desafio do bootcamp, foi proposto que aplicássemos filtros para pré-processar imagens. Mas, eu fui um pouco além, a motivo de curiosidade, para ver como um modelo de classificação de imagens se sairia tendo o dataset de treinamento pré-processado de maneiras diferentes.
