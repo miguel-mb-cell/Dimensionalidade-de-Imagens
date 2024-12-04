@@ -26,7 +26,7 @@ Nesse desafio do bootcamp, foi proposto que aplicássemos filtros para pré-proc
 1. **🧩 O que é Redução de Dimensionalidade**
    - Um breve texto explicando o que é e o porquê dessa técnica.
   
-2. **🖼️ Carregar imagem da internet**
+2. **📷 Carregar imagem da internet**
    - Criar funções para carregar uma imagem da internet e mostrar ela e seu tamanho em bytes no colab.
 
 4. **🔳 Filtro de Tons de Cinza**
@@ -35,7 +35,7 @@ Nesse desafio do bootcamp, foi proposto que aplicássemos filtros para pré-proc
 5. **📊 PCA (Principal Component Analysis)**
    - Desenvolver uma função para aplicar a técnica de PCA em uma imagem.
     
-7. **Treinando o modelo**
+7. **🧠 Treinando o modelo**
    - Sem pré-processamento
    - Aplicando a escala de cinza
    - Aplicando o método PCA
